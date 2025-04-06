@@ -11,3 +11,7 @@
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dominikvytisk&theme=default&no-frame=false&no-bg=true&margin-w=4)
